@@ -1,1 +1,1 @@
-this is a tictactoe gmae
+this is a tictactoe game
